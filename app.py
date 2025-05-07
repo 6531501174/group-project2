@@ -35,9 +35,5 @@ ax.set_title("PCA Clustering Visualization")
 ax.legend()
 st.pyplot(fig)
 # -*- coding: utf-8 -*-
-"""
-Created on %(date)s
 
-@author: %(username)s
-"""
 
